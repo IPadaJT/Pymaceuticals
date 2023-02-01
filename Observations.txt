@@ -1,0 +1,4 @@
+# Observations
+Some observations based on the data and related plots
+- Using the box plots of Final Vol by Regimen, Ceftamin seems to have lower efficacy than the other 3 drugs (Capomulin, Ramicane, and Infubinol)
+- The results of the analysis also seem to be fairly robust given the large and similar sample size between all regimen types. With the lowest sample size being n=148 for Propriva

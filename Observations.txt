@@ -1,4 +1,5 @@
 # Observations
 Some observations based on the data and related plots
 - Using the box plots of Final Vol by Regimen, Ceftamin seems to have lower efficacy than the other 3 drugs (Capomulin, Ramicane, and Infubinol)
-- The results of the analysis also seem to be fairly robust given the large and similar sample size between all regimen types. With the lowest sample size being n=148 for Propriva
+- The results of the analysis also seem to be fairly robust given the large and similar sample size between all regimen types. With the lowest sample size being n=148 for Propriva. In addition, distribution between male and female mice subjects is near 50/50 as shown by the pie plot.
+- The final line plot and scatter plot also show the positive correlation between mice weight and average tumor volume. This is pretty self-explanatory that as the average tumor volume increases in a mouse, that the weight of the mice must also increase. But the ability to get an equation for the line of best fit for the two variables is very useful.
